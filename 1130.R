@@ -1,0 +1,1 @@
+dat = read.csv("data2_1.csv", header = TRUE, fileEncoding = '桌面') #請將路徑改為自己放置的位置
